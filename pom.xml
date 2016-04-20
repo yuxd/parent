@@ -5,7 +5,6 @@
 	<artifactId>parent</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	test 同步
 	<developers>
 		<developer>
 			<id>yuxd</id>
